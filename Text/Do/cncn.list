@@ -1,3 +1,4 @@
 # ios 推送
+DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,push-apple.com
 DOMAIN-SUFFIX,captive.apple.com
