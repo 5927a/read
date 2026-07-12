@@ -1,0 +1,19 @@
+{
+  "name": "Merged Ad List",
+  "description": "AdGuard SDN filter + AWAvenue Ads Rule 合并规则",
+  "sources": [
+    {
+      "name": "AdGuard DNS filter",
+      "source": "filter.txt",
+      "type": "adblock",
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "AWAvenue Ads Rule",
+      "source": "AWAvenue-Ads-Rule.txt",
+      "type": "adblock",
+      "transformations": ["RemoveModifiers", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "Compress", "RemoveEmptyLines"]
+}
