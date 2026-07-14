@@ -120,7 +120,12 @@ HOST,ad.51wnl-cq.com,reject
 HOST,abconfig.51wnl-cq.com,reject
 HOST,mantis.bayescom.com,REJECT
 HOST,dspad.51wnl-cq.com,REJECT
-HOST-SUFFIX,somamobi.com,REJECT
+HOST,apic.51wnl-cq.com
+HOST,r.51wnl-cq.com
+HOST,c.51wnl-cq.com
+HOST,mantis.bayescom.com
+HOST,dspad.51wnl-cq.com
+HOST,long.fei.somamobi.com
 HOST,stats.litemob.net,REJECT
 HOST-SUFFIX,getui.net,reject
 HOST-SUFFIX,partner.sm.cn,reject

@@ -86,10 +86,12 @@ DOMAIN,ad.bayescom.com
 DOMAIN,adn.51wnl-cq.com
 DOMAIN,ad.51wnl-cq.com
 DOMAIN,abconfig.51wnl-cq.com
+DOMAIN,apic.51wnl-cq.com
+DOMAIN,r.51wnl-cq.com
+DOMAIN,c.51wnl-cq.com
 DOMAIN,mantis.bayescom.com
 DOMAIN,dspad.51wnl-cq.com
-DOMAIN-SUFFIX,51wnl-cq.com
-DOMAIN-SUFFIX,somamobi.com
+DOMAIN,long.fei.somamobi.com
 DOMAIN,stats.litemob.net
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,partner.sm.cn
