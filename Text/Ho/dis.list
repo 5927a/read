@@ -1,3 +1,23 @@
+#------------dns系列----------------------------#
+HOST,aedns.weixin.qq.com,reject
+HOST,dns.weixin.qq.com,reject
+HOST,dns.weixin.qq.com.cn,reject
+HOST,httpdns.alicdn.com,reject
+HOST,httpdns-api.aliyuncs.com,reject
+HOST,httpdns-sc.aliyuncs.com,reject
+HOST,resolvers-cn.httpdns.aliyuncs.com,reject
+HOST,httpsdns.baidu.com,reject
+HOST,httpdns.baidu.com,reject
+HOST,httpdns.baidubce.com,reject
+HOST,httpdns.bcelive.com,reject
+HOST,httpdns.bilivideo.com,reject
+HOST,httpdns.c.cdnhwc2.com,reject
+HOST,doh.iqiyi.com,reject
+HOST,dns.jd.com,reject
+HOST,httpdns.ocloud.oppomobile.com,reject
+HOST,httpdns.push.oppomobile.com,reject
+HOST,dns.weibo.cn,reject
+
 # 钉钉、优酷、小红书、阿里追踪、京东快手
 HOST,adashx.ut.dingtalk.com,reject
 HOST,h-adashx.ut.dingtalk.com,reject
@@ -20,7 +40,7 @@ HOST-SUFFIX,g1.dfcfw.com,reject
 HOST-SUFFIX,adsmind.gdtimg.com,reject
 HOST-SUFFIX,x.adnet.qq.com,reject
 HOST-SUFFIX,gdt.qq.com,reject
-DOMAIN-SUFFIX,h.trace.qq.com,reject
+HOST-SUFFIX,h.trace.qq.com,reject
 
 # 输入法相关
 HOST-SUFFIX,account.sogou.com,reject
