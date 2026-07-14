@@ -68,7 +68,7 @@ DOMAIN-SUFFIX,zuoshujiang.com
 DOMAIN-SUFFIX,biquapi.xyz
 DOMAIN-SUFFIX,corp3g.cn
 
-# 安全监控与Google
+# QQ与Google
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,safebrowsing.googleapis-cn.com
 DOMAIN-SUFFIX,urlsec.qq.com
@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,otheve.beacon.qq.com
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com
 DOMAIN-SUFFIX,oth.str.mdt.qq.com
+DOMAIN-SUFFIX,h.trace.qq.com
 
 # 万年历
 DOMAIN,msgn.51wnl-cq.com
