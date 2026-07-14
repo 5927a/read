@@ -113,15 +113,21 @@ HOST-SUFFIX,oth.eve.mdt.qq.com,reject
 HOST-SUFFIX,oth.str.mdt.qq.com,reject
 
 # 推送与万年历
-HOST-SUFFIX,getui.net,reject
-HOST-SUFFIX,partner.sm.cn,reject
-HOST-SUFFIX,1rtb.com,reject
-HOST-SUFFIX,oartner.uc.cn,reject
 HOST,msgn.51wnl-cq.com,reject
 HOST,ad.bayescom.com,reject
 HOST,adn.51wnl-cq.com,reject
 HOST,ad.51wnl-cq.com,reject
 HOST,abconfig.51wnl-cq.com,reject
+HOST,mantis.bayescom.com,REJECT
+HOST,dspad.51wnl-cq.com,REJECT
+HOST-SUFFIX,51wnl-cq.com,REJECT
+HOST-SUFFIX,somamobi.com,REJECT
+HOST,stats.litemob.net,REJECT
+HOST-SUFFIX,getui.net,reject
+HOST-SUFFIX,partner.sm.cn,reject
+HOST-SUFFIX,1rtb.com,reject
+HOST-SUFFIX,oartner.uc.cn,reject
+HOST-SUFFIX,partner.uc.cn,reject
 HOST-SUFFIX,iytcdn.com,reject
 
 # 高德地图开屏
