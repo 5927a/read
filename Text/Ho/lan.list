@@ -1,0 +1,14 @@
+IP-CIDR,0.0.0.0/8,reject
+IP-CIDR,10.0.0.0/8,reject
+IP-CIDR,100.64.0.0/10,reject
+IP-CIDR,127.0.0.0/8,reject
+IP-CIDR,169.254.0.0/16,reject
+IP-CIDR,172.16.0.0/12,reject
+IP-CIDR,192.168.0.0/16,reject
+IP-CIDR,198.18.0.0/15,reject
+IP-CIDR,122.88.0.0/16,reject
+IP-CIDR,224.0.0.0/3,reject
+IP-CIDR6,::/127,reject
+IP-CIDR6,fc00::/7,reject
+IP-CIDR6,fe80::/10,reject
+IP-CIDR6,ff00::/8,reject

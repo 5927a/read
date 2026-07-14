@@ -1,0 +1,4 @@
+# block ios update
+HOST,mesu.apple.com,reject
+HOST,gdmf.apple.com,reject
+# block oneplus update
