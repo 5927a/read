@@ -1,35 +1,91 @@
-# for outside
-HOST-SUFFIX,icloud.com,手动选择
-HOST-SUFFIX,icloud-content.com,手动选择
-HOST-SUFFIX,icloud-privacy-relay.com,手动选择
-HOST-SUFFIX,me.com,手动选择
-HOST-SUFFIX,mac.com,手动选择
-HOST-SUFFIX,cdn-apple.com,手动选择
-HOST-SUFFIX,mzstatic.com,手动选择
-HOST-SUFFIX,aaplimg.com,手动选择
-HOST-SUFFIX,stats-apple.com,手动选择
-HOST-SUFFIX,apple-cloudkit.com,手动选择
-HOST-SUFFIX,apple-livephotoskit.com,手动选择
-HOST-SUFFIX,apple-mapkit.com,手动选择
-HOST-SUFFIX,apzones.com,手动选择
-HOST-SUFFIX,apple-finance.query.yahoo.com,手动选择
-HOST-SUFFIX,apple-relay.cloudflare.com,手动选择
-HOST-SUFFIX,apple-relay.fastly-edge.com,手动选择
-HOST-SUFFIX,apple.com.akadns.net,手动选择
-HOST-SUFFIX,apple.com.edgekey.net,手动选择
-HOST-SUFFIX,apple.com.edgesuite.net,手动选择
-HOST-SUFFIX,apple.map.fastly.net,手动选择
-HOST-SUFFIX,apple.pvxt.net,手动选择
-HOST-SUFFIX,appledownload.qtlcdn.com.cdnmg.com,手动选择
-HOST-SUFFIX,apps-apple.com.akadns.net,手动选择
-HOST-SUFFIX,cdn-apple.com.akadns.net,手动选择
-HOST-SUFFIX,courier-push-apple.com.akadns.net,手动选择
-HOST-SUFFIX,courier-sandbox-push-apple.com.akadns.net,手动选择
-HOST-SUFFIX,edge-itunes-apple.com.akadns.net,手动选择
-HOST-SUFFIX,ess-apple.com.akadns.net,手动选择
-HOST-SUFFIX,gc-apple.com.akadns.net,手动选择
-HOST-SUFFIX,gcsis-apple.com.akadns.net,手动选择
-HOST-SUFFIX,idms-apple.com.akadns.net,手动选择
-HOST-SUFFIX,lb-apple.com.akadns.net,手动选择
-HOST-SUFFIX,ls-apple.com.akadns.net,手动选择
-HOST-SUFFIX,origin-apple.com.akadns.net,手动选择
+# ============================================================
+# 账号认证 / Apple ID / 登录 / 二次验证
+# ============================================================
+host-suffix,idmsa.apple.com,手动选择
+host-suffix,appleid.apple.com,手动选择
+host-suffix,appleid.cdn-apple.com,手动选择
+host-suffix,gsa.apple.com,手动选择
+host-suffix,gsas.apple.com,手动选择
+host-suffix,identity.apple.com,手动选择
+host-suffix,signin.apple.com,手动选择
+host-suffix,account.apple.com,手动选择
+host-suffix,developer.apple.com,手动选择
+ 
+# ============================================================
+# iCloud 数据同步 / 云存储 / CloudKit
+# ============================================================
+host-suffix,icloud.com,手动选择
+host-suffix,icloud-content.com,手动选择
+host-suffix,icloud.com.cn,手动选择
+host-suffix,me.com,手动选择
+host-suffix,mobileme.com,手动选择
+host-suffix,setup.icloud.com,手动选择
+host-suffix,cloudkit.icloud.com,手动选择
+host-suffix,icloud-mail.com,手动选择
+host-suffix,icloud.apple.com,手动选择
+host-suffix,itcm.icloud.com,手动选择
+ 
+# ============================================================
+# 位置信息 / Find My（隐私最敏感的一类）
+# ============================================================
+host-suffix,ls.apple.com,手动选择
+host-suffix,ls2-cn.apple.com,手动选择
+host-suffix,gspe1-cn-ssl.ls.apple.com,手动选择
+host-suffix,gspe1-cn.apple.com,手动选择
+host-suffix,gsp-ssl.ls.apple.com,手动选择
+host-suffix,fmip.icloud.com,手动选择
+host-suffix,fmf.icloud.com,手动选择
+host-suffix,findmy.icloud.com,手动选择
+host-suffix,locator.apple.com,手动选择
+ 
+# ============================================================
+# 支付 / App 内购买
+# ============================================================
+host-suffix,apple-pay.apple.com,手动选择
+host-suffix,smp-device-content.apple.com,手动选择
+host-suffix,buy.itunes.apple.com,手动选择
+host-suffix,paymentservices.apple.com,手动选择
+host-suffix,wallet.apple.com,手动选择
+ 
+# ============================================================
+# 证书校验 / 代码签名 / 安全基础设施
+# ============================================================
+host-suffix,ocsp.apple.com,手动选择
+host-suffix,crl.apple.com,手动选择
+host-suffix,valid.apple.com,手动选择
+host-suffix,certs.apple.com,手动选择
+host-suffix,trustd.apple.com,手动选择
+host-suffix,ppq.apple.com,手动选择
+host-suffix,tbsc.apple.com,手动选择
+host-suffix,configuration.apple.com,手动选择
+ 
+# ============================================================
+# 设备管理
+# ============================================================
+host-suffix,school.apple.com,手动选择
+host-suffix,business.apple.com,手动选择
+host-suffix,appleschoolmanager.apple.com,手动选择
+host-suffix,abm.apple.com,手动选择
+host-suffix,deviceenrollment.apple.com,手动选择
+host-suffix,mdmenrollment.apple.com,手动选择
+ 
+# ============================================================
+# 内容服务
+# ============================================================
+host-suffix,music.apple.com,手动选择
+host-suffix,tv.apple.com,手动选择
+host-suffix,news.apple.com,手动选择
+host-suffix,books.apple.com,手动选择
+host-suffix,podcasts.apple.com,手动选择
+host-suffix,radio.apple.com,手动选择
+host-suffix,siri.apple.com,手动选择
+host-suffix,guzzoni.apple.com,手动选择
+ 
+# ============================================================
+# 开发者服务 / TestFlight / Game Center
+# ============================================================
+host-suffix,developerservices2.apple.com,手动选择
+host-suffix,idesign.apple.com,手动选择
+host-suffix,testflight.apple.com,手动选择
+host-suffix,gc.apple.com,手动选择
+host-suffix,gameservices.apple.com,手动选择
