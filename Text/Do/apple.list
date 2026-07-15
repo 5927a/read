@@ -1,91 +1,58 @@
 # ============================================================
-# 账号认证 / Apple ID / 登录 / 二次验证
-# ============================================================
-domain-suffix,idmsa.apple.com
-domain-suffix,appleid.apple.com
-domain-suffix,appleid.cdn-apple.com
-domain-suffix,gsa.apple.com
-domain-suffix,gsas.apple.com
-domain-suffix,identity.apple.com
-domain-suffix,signin.apple.com
-domain-suffix,account.apple.com
-domain-suffix,developer.apple.com
- 
-# ============================================================
-# iCloud 数据同步 / 云存储 / CloudKit
+# iCloud / 账号相关服务
 # ============================================================
 domain-suffix,icloud.com
 domain-suffix,icloud-content.com
-domain-suffix,icloud.com.cn
+domain-suffix,icloud-privacy-relay.com
 domain-suffix,me.com
-domain-suffix,mobileme.com
-domain-suffix,setup.icloud.com
-domain-suffix,cloudkit.icloud.com
-domain-suffix,icloud-mail.com
-domain-suffix,icloud.apple.com
-domain-suffix,itcm.icloud.com
- 
+domain-suffix,mac.com
+domain-suffix,apple-cloudkit.com
+domain-suffix,apple-livephotoskit.com
+domain-suffix,apple-mapkit.com
+domain-suffix,apzones.com
+
 # ============================================================
-# 位置信息 / Find My（隐私最敏感的一类）
+# Akamai
 # ============================================================
-domain-suffix,ls.apple.com
-domain-suffix,ls2-cn.apple.com
-domain-suffix,gspe1-cn-ssl.ls.apple.com
-domain-suffix,gspe1-cn.apple.com
-domain-suffix,gsp-ssl.ls.apple.com
-domain-suffix,fmip.icloud.com
-domain-suffix,fmf.icloud.com
-domain-suffix,findmy.icloud.com
-domain-suffix,locator.apple.com
- 
+domain-suffix,apple.com.akadns.net
+domain-suffix,apple.com.edgekey.net
+domain-suffix,apple.com.edgesuite.net
+domain-suffix,apple.map.fastly.net
+domain-suffix,apple.pvxt.net
+domain-suffix,appledownload.qtlcdn.com.cdnmg.com
+domain-suffix,apps-apple.com.akadns.net
+domain-suffix,cdn-apple.com.akadns.net
+domain-suffix,courier-push-apple.com.akadns.net
+domain-suffix,courier-sandbox-push-apple.com.akadns.net
+domain-suffix,edge-itunes-apple.com.akadns.net
+domain-suffix,ess-apple.com.akadns.net
+domain-suffix,gc-apple.com.akadns.net
+domain-suffix,gcsis-apple.com.akadns.net
+domain-suffix,idms-apple.com.akadns.net
+domain-suffix,lb-apple.com.akadns.net
+domain-suffix,ls-apple.com.akadns.net
+domain-suffix,origin-apple.com.akadns.net
+domain-suffix,push-apple.com.akadns.net
+
 # ============================================================
-# 支付 / App 内购买
+# Private Relay / Private Cloud Compute
 # ============================================================
-domain-suffix,apple-pay.apple.com
-domain-suffix,smp-device-content.apple.com
-domain-suffix,buy.itunes.apple.com
-domain-suffix,paymentservices.apple.com
-domain-suffix,wallet.apple.com
- 
+domain-suffix,apple-relay.cloudflare.com
+domain-suffix,apple-relay.fastly-edge.com
+
 # ============================================================
-# 证书校验 / 代码签名 / 安全基础设施
+# CDN / 静态资源
 # ============================================================
-domain-suffix,ocsp.apple.com
-domain-suffix,crl.apple.com
-domain-suffix,valid.apple.com
-domain-suffix,certs.apple.com
-domain-suffix,trustd.apple.com
-domain-suffix,ppq.apple.com
-domain-suffix,tbsc.apple.com
-domain-suffix,configuration.apple.com
- 
+domain-suffix,cdn-apple.com
+domain-suffix,mzstatic.com
+domain-suffix,aaplimg.com
+domain-suffix,stats-apple.com
+domain-suffix,phicdn.net
+
 # ============================================================
-# 设备管理
+# 主站与其他服务
 # ============================================================
-domain-suffix,school.apple.com
-domain-suffix,business.apple.com
-domain-suffix,appleschoolmanager.apple.com
-domain-suffix,abm.apple.com
-domain-suffix,deviceenrollment.apple.com
-domain-suffix,mdmenrollment.apple.com
- 
-# ============================================================
-# 内容服务
-# ============================================================
-domain-suffix,music.apple.com
-domain-suffix,tv.apple.com
-domain-suffix,news.apple.com
-domain-suffix,books.apple.com
-domain-suffix,podcasts.apple.com
-domain-suffix,radio.apple.com
-domain-suffix,siri.apple.com
-domain-suffix,guzzoni.apple.com
- 
-# ============================================================
-# 开发者服务 / TestFlight / Game Center
-# ============================================================
-domain-suffix,developerservices2.apple.com
-domain-suffix,idesign.apple.com
-domain-suffix,testflight.apple.com
-domain-suffix,gc.apple.com
-domain-suffix,gameservices.apple.com
+domain-suffix,apple.com
+domain-suffix,apple-dns.net
+domain-suffix,safebrowsing.apple
+domain-suffix,apple.news
