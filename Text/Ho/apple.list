@@ -52,7 +52,7 @@ host-suffix,phicdn.net,proxy
 # ============================================================
 # 主站与其他服务
 # ============================================================
-host-suffix,apple.com,proxy
+host-suffix,www.apple.com,proxy
 host-suffix,apple-dns.net,proxy
 host-suffix,safebrowsing.apple,proxy
 host-suffix,apple.news,proxy

@@ -52,7 +52,7 @@ domain-suffix,phicdn.net
 # ============================================================
 # 主站与其他服务
 # ============================================================
-domain-suffix,apple.com
+domain-suffix,www.apple.com
 domain-suffix,apple-dns.net
 domain-suffix,safebrowsing.apple
 domain-suffix,apple.news
