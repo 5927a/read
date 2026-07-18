@@ -2,3 +2,5 @@
 HOST,mesu.apple.com,reject
 HOST,gdmf.apple.com,reject
 # block oneplus update
+HOST,component-ota-cn.allawntech.com,reject
+HOST,h5fs.coloros.com,reject
