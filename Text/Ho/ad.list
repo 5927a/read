@@ -1,8 +1,8 @@
-HOST-SUFFIX,*.diwodiwo.xyz,reject
-HOST-SUFFIX,*.exaapi.com,reject
-HOST-SUFFIX,*.p2p.huya.com,reject
-HOST-SUFFIX,*.va.huya.com,reject
-HOST-SUFFIX,*two-gun-volley.pages.dev,reject
+HOST-SUFFIX,diwodiwo.xyz,reject
+HOST-SUFFIX,exaapi.com,reject
+HOST-SUFFIX,p2p.huya.com,reject
+HOST-SUFFIX,va.huya.com,reject
+HOST-SUFFIX,two-gun-volley.pages.dev,reject
 HOST-SUFFIX,0-02.net,reject
 HOST-SUFFIX,0.0.0.1,reject
 HOST-SUFFIX,0.myikas.com,reject
