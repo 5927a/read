@@ -179,3 +179,8 @@ payload:
   - PROCESS-NAME,uninst.exe
   - PROCESS-NAME,app_shell_updater.exe
   - PROCESS-NAME,tt_crash_reporter.exe
+  - PROCESS-NAME,Xshell.exe,PROXY
+  - PROCESS-NAME,Xagent.exe,PROXY
+  - PROCESS-NAME,XshellCore.exe,PROXY
+  - PROCESS-NAME,Xtransport.exe,PROXY
+  - PROCESS-NAME,RealCmdModule.exe,PROXY
