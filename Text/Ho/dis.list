@@ -156,7 +156,3 @@ HOST-SUFFIX,doubleclick-cn.net,reject
 HOST-SUFFIX,bitenn.com,reject
 HOST-SUFFIX,pv.sohu.com,reject
 HOST-SUFFIX,gw.365you.com,reject
-
-# xshell
-HOST-keyword,netsarang,reject
-HOST-keyword,xshell,reject
