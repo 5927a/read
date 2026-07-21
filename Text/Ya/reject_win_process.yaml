@@ -179,3 +179,6 @@ payload:
   - PROCESS-NAME,uninst.exe
   - PROCESS-NAME,app_shell_updater.exe
   - PROCESS-NAME,tt_crash_reporter.exe
+  - PROCESS-NAME,LiveUpdate.exe,REJECT
+  - PROCESS-NAME,CrashSender.exe,REJECT
+  - PROCESS-NAME,nsregister.exe,REJECT
