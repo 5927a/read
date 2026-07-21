@@ -202,3 +202,7 @@ domain-suffix,line.me
 domain-suffix,naver.com
 domain-suffix,daum.net
 domain-suffix,kakao.com
+
+# ================= ssh/工具 =================
+domain-suffix,xshell.com
+domain-suffix,netsarang.net

@@ -202,3 +202,7 @@ host-suffix,line.me,手动选择
 host-suffix,naver.com,手动选择
 host-suffix,daum.net,手动选择
 host-suffix,kakao.com,手动选择
+
+# ================= ssh/工具 =================
+host-suffix,xshell.com,手动选择
+host-suffix,netsarang.net,手动选择
