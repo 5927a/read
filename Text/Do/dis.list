@@ -136,5 +136,5 @@ DOMAIN,log.mmstat.com
 DOMAIN,gm.mmstat.com
 
 # xshell
-HOST-keyword,netsarang,reject
-HOST-keyword,xshell,reject
+DOMAIN-KEYWORD,netsarang,reject
+DOMAIN-KEYWORD,xshell,reject
