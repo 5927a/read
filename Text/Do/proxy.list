@@ -1,5 +1,5 @@
 # ================= qx 系 =================
-host-suffix,quantumult.app,手动选择
+domain-suffix,quantumult.app,手动选择
 # ================= Google 系 =================
 domain-suffix,google.com
 domain-suffix,google.com.hk
