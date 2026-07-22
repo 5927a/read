@@ -1,58 +1,58 @@
 # ============================================================
 # iCloud / 账号相关服务
 # ============================================================
-domain-suffix,icloud.com
-domain-suffix,icloud-content.com
-domain-suffix,icloud-privacy-relay.com
-domain-suffix,me.com
-domain-suffix,mac.com
-domain-suffix,apple-cloudkit.com
-domain-suffix,apple-livephotoskit.com
-domain-suffix,apple-mapkit.com
-domain-suffix,apzones.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud-privacy-relay.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mac.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apzones.com
 
 # ============================================================
 # Akamai
 # ============================================================
-domain-suffix,apple.com.akadns.net
-domain-suffix,apple.com.edgekey.net
-domain-suffix,apple.com.edgesuite.net
-domain-suffix,apple.map.fastly.net
-domain-suffix,apple.pvxt.net
-domain-suffix,appledownload.qtlcdn.com.cdnmg.com
-domain-suffix,apps-apple.com.akadns.net
-domain-suffix,cdn-apple.com.akadns.net
-domain-suffix,courier-push-apple.com.akadns.net
-domain-suffix,courier-sandbox-push-apple.com.akadns.net
-domain-suffix,edge-itunes-apple.com.akadns.net
-domain-suffix,ess-apple.com.akadns.net
-domain-suffix,gc-apple.com.akadns.net
-domain-suffix,gcsis-apple.com.akadns.net
-domain-suffix,idms-apple.com.akadns.net
-domain-suffix,lb-apple.com.akadns.net
-domain-suffix,ls-apple.com.akadns.net
-domain-suffix,origin-apple.com.akadns.net
-domain-suffix,push-apple.com.akadns.net
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,apple.com.edgekey.net
+DOMAIN-SUFFIX,apple.com.edgesuite.net
+DOMAIN-SUFFIX,apple.map.fastly.net
+DOMAIN-SUFFIX,apple.pvxt.net
+DOMAIN-SUFFIX,appledownload.qtlcdn.com.cdnmg.com
+DOMAIN-SUFFIX,apps-apple.com.akadns.net
+DOMAIN-SUFFIX,cdn-apple.com.akadns.net
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+DOMAIN-SUFFIX,courier-sandbox-push-apple.com.akadns.net
+DOMAIN-SUFFIX,edge-itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,ess-apple.com.akadns.net
+DOMAIN-SUFFIX,gc-apple.com.akadns.net
+DOMAIN-SUFFIX,gcsis-apple.com.akadns.net
+DOMAIN-SUFFIX,idms-apple.com.akadns.net
+DOMAIN-SUFFIX,lb-apple.com.akadns.net
+DOMAIN-SUFFIX,ls-apple.com.akadns.net
+DOMAIN-SUFFIX,origin-apple.com.akadns.net
+DOMAIN-SUFFIX,push-apple.com.akadns.net
 
 # ============================================================
 # Private Relay / Private Cloud Compute
 # ============================================================
-domain-suffix,apple-relay.cloudflare.com
-domain-suffix,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 
 # ============================================================
 # CDN / 静态资源
 # ============================================================
-domain-suffix,cdn-apple.com
-domain-suffix,mzstatic.com
-domain-suffix,aaplimg.com
-domain-suffix,stats-apple.com
-domain-suffix,phicdn.net
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,stats-apple.com
+DOMAIN-SUFFIX,phicdn.net
 
 # ============================================================
 # 主站与其他服务
 # ============================================================
-domain-suffix,www.apple.com
-domain-suffix,apple-dns.net
-domain-suffix,safebrowsing.apple
-domain-suffix,apple.news
+DOMAIN-SUFFIX,www.apple.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,safebrowsing.apple
+DOMAIN-SUFFIX,apple.news
