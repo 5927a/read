@@ -1,6 +1,6 @@
 # block ios update
-mesu.apple.com
-gdmf.apple.com
+DOMIN,mesu.apple.com
+DOMIN,gdmf.apple.com
 # block oneplus update
-component-ota-cn.allawntech.com
-h5fs.coloros.com
+DOMIN,component-ota-cn.allawntech.com
+DOMIN,h5fs.coloros.com
