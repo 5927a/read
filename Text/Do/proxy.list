@@ -39,7 +39,6 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,oculus.com
 
 # ================= 苹果（部分服务） =================
-DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
