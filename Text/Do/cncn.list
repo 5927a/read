@@ -3,4 +3,5 @@ DOMAIN,time.apple.com
 DOMAIN,time.asia.apple.com
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,httpbin.org
 DOMAIN-SUFFIX,cn
