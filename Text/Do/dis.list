@@ -134,7 +134,3 @@ DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,bitenn.com
 DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,gw.365you.com
-
-# xshell
-DOMAIN-KEYWORD,netsarang,reject
-DOMAIN-KEYWORD,xshell,reject
