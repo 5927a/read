@@ -4,7 +4,6 @@ DOMAIN,time.asia.apple.com
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,httpbin.org
-DOMAIN-SUFFIX,cn
 # 阿里巴巴
 IP-CIDR,103.206.40.0/22,no-resolve
 IP-CIDR,103.38.56.0/22,no-resolve
