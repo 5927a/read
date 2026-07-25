@@ -414,5 +414,16 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,virustotal.com
 
+# >>> 论坛  <<<
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,yfsp.tv
+DOMAIN-SUFFIX,v2ex.com
+
+# >>> DNS <<<
+DOMAIN-SUFFIX,one.one.one.one
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,quad9.net
+DOMAIN-SUFFIX,adguard-dns.com
+DOMAIN-SUFFIX,opendns.com
+DOMAIN-SUFFIX,nextdns.io
