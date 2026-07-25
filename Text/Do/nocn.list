@@ -427,3 +427,76 @@ DOMAIN-SUFFIX,quad9.net
 DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,nextdns.io
+
+# >>> ssl机构 <<<
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,comodo.com
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,entrust.com
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,awstrust.com
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,buypass.com
+DOMAIN-SUFFIX,harica.gr
+DOMAIN-SUFFIX,actalis.it
+DOMAIN-SUFFIX,ssl.com
+DOMAIN-SUFFIX,quovadisglobal.com
+DOMAIN-SUFFIX,certum.pl
+DOMAIN-SUFFIX,usertrust.com
+DOMAIN-SUFFIX,geotrust.com
+DOMAIN-SUFFIX,thawte.com
+DOMAIN-SUFFIX,rapidssl.com
+
+# >>> IP归属 / 地理位置查询 <<<
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipwho.is
+DOMAIN-SUFFIX,ipdata.co
+DOMAIN-SUFFIX,db-ip.com
+DOMAIN-SUFFIX,ip2location.com
+DOMAIN-SUFFIX,maxmind.com
+DOMAIN-SUFFIX,ippure.com
+
+# >>> WHOIS / IP注册信息查询 <<<
+DOMAIN-SUFFIX,arin.net
+DOMAIN-SUFFIX,ripe.net
+DOMAIN-SUFFIX,apnic.net
+DOMAIN-SUFFIX,lacnic.net
+DOMAIN-SUFFIX,afrinic.net
+DOMAIN-SUFFIX,radb.net
+
+# >>> IP信誉 / 黑名单检测 <<<
+DOMAIN-SUFFIX,abuseipdb.com
+DOMAIN-SUFFIX,virustotal.com
+DOMAIN-SUFFIX,spamhaus.org
+DOMAIN-SUFFIX,talosintelligence.com
+DOMAIN-SUFFIX,alienvault.com
+DOMAIN-SUFFIX,otx.alienvault.com
+DOMAIN-SUFFIX,greynoise.io
+
+# >>> 网络资产 / 端口探测 <<<
+DOMAIN-SUFFIX,shodan.io
+DOMAIN-SUFFIX,zoomeye.org
+DOMAIN-SUFFIX,fofa.info
+DOMAIN-SUFFIX,hunter.how
+
+# >>> SSL证书 / TLS查询 <<<
+DOMAIN-SUFFIX,ssllabs.com
+DOMAIN-SUFFIX,crt.sh
+DOMAIN-SUFFIX,certspotter.com
+DOMAIN-SUFFIX,censys.io
+
+# >>> DNS / 反向IP查询 <<<
+DOMAIN-SUFFIX,securitytrails.com
+DOMAIN-SUFFIX,viewdns.info
+DOMAIN-SUFFIX,dnsdumpster.com
+DOMAIN-SUFFIX,hackertarget.com
+
+# >>> BGP / 网络路由查询 <<<
+DOMAIN-SUFFIX,bgp.he.net
+DOMAIN-SUFFIX,hurricaneelectric.com
