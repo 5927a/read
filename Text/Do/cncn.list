@@ -362,6 +362,8 @@ DOMAIN-SUFFIX,thinkpad.com
 DOMAIN-SUFFIX,skypixel.com
 DOMAIN-SUFFIX,gtmc.com
 DOMAIN-SUFFIX,gtmc.com.cn
+DOMAIN-SUFFIX,autohome.com.cn
+
 #alibaba
 IP-CIDR,103.206.40.0/22,no-resolve
 IP-CIDR,103.38.56.0/22,no-resolve
