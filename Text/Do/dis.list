@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,pcinput.baidu.com
 DOMAIN-SUFFIX,tips.ime.baidu.com
 DOMAIN-SUFFIX,typing.bae.baidu.com
 DOMAIN-SUFFIX,updateime.baidu.com
+DOMAIN-SUFFIX,hm.baidu.com
 
 # 掌阅 / iReader 阅读类
 DOMAIN-SUFFIX,ireader.com
