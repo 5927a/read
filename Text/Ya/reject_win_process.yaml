@@ -182,3 +182,4 @@ payload:
   - PROCESS-NAME,LiveUpdate.exe,REJECT
   - PROCESS-NAME,CrashSender.exe,REJECT
   - PROCESS-NAME,nsregister.exe,REJECT
+  - PROCESS-NAME,QQEX.exe,REJECT
