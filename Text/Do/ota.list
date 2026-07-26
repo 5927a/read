@@ -1,6 +1,7 @@
 # block ios update
 DOMAIN,mesu.apple.com
 DOMAIN,gdmf.apple.com
+DOMAIN,xp.apple.com
 # block oneplus update
 DOMAIN,component-ota-cn.allawntech.com
 DOMAIN,h5fs.coloros.com

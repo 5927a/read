@@ -4,12 +4,7 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mac.com
-# Akamai
-DOMAIN-SUFFIX,akadns.net
-DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,edgesuite.net
-DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,apple.pvxt.net
+
 # Apple 核心媒体与流媒体服务
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,news-edge.apple.com
@@ -17,11 +12,20 @@ DOMAIN-SUFFIX,news-events.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,apple.video.a.net
 DOMAIN-SUFFIX,play.itunes.apple.com
+
 # Siri 与 Spotlight
 DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,api.smoot.apple.com
+
 # App Store 商店页面
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,buy.itunes.apple.com
+
+# Akamai
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,apple.pvxt.net
