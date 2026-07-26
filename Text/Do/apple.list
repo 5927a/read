@@ -1,58 +1,27 @@
-# ============================================================
-# iCloud / 账号相关服务
-# ============================================================
+# iCloud 核心同步与云盘数据
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,icloud-privacy-relay.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mac.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,apple-livephotoskit.com
-DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,apzones.com
-
-# ============================================================
 # Akamai
-# ============================================================
-DOMAIN-SUFFIX,apple.com.akadns.net
-DOMAIN-SUFFIX,apple.com.edgekey.net
-DOMAIN-SUFFIX,apple.com.edgesuite.net
-DOMAIN-SUFFIX,apple.map.fastly.net
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,apple.pvxt.net
-DOMAIN-SUFFIX,appledownload.qtlcdn.com.cdnmg.com
-DOMAIN-SUFFIX,apps-apple.com.akadns.net
-DOMAIN-SUFFIX,cdn-apple.com.akadns.net
-DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
-DOMAIN-SUFFIX,courier-sandbox-push-apple.com.akadns.net
-DOMAIN-SUFFIX,edge-itunes-apple.com.akadns.net
-DOMAIN-SUFFIX,ess-apple.com.akadns.net
-DOMAIN-SUFFIX,gc-apple.com.akadns.net
-DOMAIN-SUFFIX,gcsis-apple.com.akadns.net
-DOMAIN-SUFFIX,idms-apple.com.akadns.net
-DOMAIN-SUFFIX,lb-apple.com.akadns.net
-DOMAIN-SUFFIX,ls-apple.com.akadns.net
-DOMAIN-SUFFIX,origin-apple.com.akadns.net
-DOMAIN-SUFFIX,push-apple.com.akadns.net
-
-# ============================================================
-# Private Relay / Private Cloud Compute
-# ============================================================
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-
-# ============================================================
-# CDN / 静态资源
-# ============================================================
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,stats-apple.com
-DOMAIN-SUFFIX,phicdn.net
-
-# ============================================================
-# 主站与其他服务
-# ============================================================
-DOMAIN-SUFFIX,www.apple.com
-DOMAIN-SUFFIX,apple-dns.net
-DOMAIN-SUFFIX,safebrowsing.apple
+# Apple 核心媒体与流媒体服务
 DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,news-edge.apple.com
+DOMAIN-SUFFIX,news-events.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,apple.video.a.net
+DOMAIN-SUFFIX,play.itunes.apple.com
+# Siri 与 Spotlight
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,api.smoot.apple.com
+# App Store 商店页面
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,buy.itunes.apple.com
