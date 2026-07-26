@@ -450,6 +450,7 @@ DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,geotrust.com
 DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,rapidssl.com
+DOMAIN-SUFFIX,lencr.org
 
 # >>> IP归属 / 地理位置查询 <<<
 DOMAIN-SUFFIX,ipinfo.io
