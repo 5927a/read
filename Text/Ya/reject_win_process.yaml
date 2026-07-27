@@ -1,8 +1,8 @@
 payload:
 
-# ======================
-# 截图 / OCR / 录屏
-# ======================
+  # ======================
+  # 截图 / OCR / 录屏
+  # ======================
   - PROCESS-NAME,PixPin.exe
   - PROCESS-NAME,PixPinAuxiliary.exe
   - PROCESS-NAME,snipaste.exe
@@ -13,9 +13,9 @@ payload:
   - PROCESS-NAME,RecorderOnes.exe
 
 
-# ======================
-# 搜狗输入法
-# ======================
+  # ======================
+  # 搜狗输入法
+  # ======================
   - PROCESS-NAME,crashrpt.exe
   - PROCESS-NAME,Install64.exe
   - PROCESS-NAME,PinyinUp.exe
@@ -53,9 +53,9 @@ payload:
   - PROCESS-NAME,SogouSvc.exe
 
 
-# ======================
-# WPS / Office
-# ======================
+  # ======================
+  # WPS / Office
+  # ======================
   - PROCESS-NAME,wps.exe
   - PROCESS-NAME,wpp.exe
   - PROCESS-NAME,wpsoffice.exe
@@ -69,9 +69,9 @@ payload:
   - PROCESS-NAME,OfficeClickToRun.exe
 
 
-# ======================
-# Adobe
-# ======================
+  # ======================
+  # Adobe
+  # ======================
   - PROCESS-NAME,Photoshop.exe
   - PROCESS-NAME,CCXProcess.exe
   - PROCESS-NAME,CCLibrary.exe
@@ -79,9 +79,9 @@ payload:
   - PROCESS-NAME,Adobe Crash Processor.exe
 
 
-# ======================
-# 2345
-# ======================
+  # ======================
+  # 2345
+  # ======================
   - PROCESS-NAME,2345Login.exe
   - PROCESS-NAME,2345PdfEditor.exe
   - PROCESS-NAME,2345PdfReader.exe
@@ -97,9 +97,9 @@ payload:
   - PROCESS-NAME,2345Uninst.exe
 
 
-# ======================
-# 剪映 / 字节
-# ======================
+  # ======================
+  # 剪映 / 字节
+  # ======================
   - PROCESS-NAME,JianyingPro.exe
   - PROCESS-NAME,JianyingProTray.exe
   - PROCESS-NAME,JianyingProService.exe
@@ -114,25 +114,25 @@ payload:
   - PROCESS-NAME,VEHelper.exe
 
 
-# ======================
-# 播放器
-# ======================
+  # ======================
+  # 播放器
+  # ======================
   - PROCESS-NAME,PotPlayerMini64.exe
   - PROCESS-NAME,opencodecs_0.85.17777.exe
 
 
-# ======================
-# 开发工具
-# ======================
+  # ======================
+  # 开发工具
+  # ======================
   - PROCESS-NAME,node.exe
   - PROCESS-NAME,subl.exe
   - PROCESS-NAME,sublime_text.exe
   - PROCESS-NAME,notepad++.exe
 
 
-# ======================
-# 文件工具
-# ======================
+  # ======================
+  # 文件工具
+  # ======================
   - PROCESS-NAME,Everything.exe
   - PROCESS-NAME,WizTree.exe
   - PROCESS-NAME,WizTree64.exe
@@ -140,17 +140,17 @@ payload:
   - PROCESS-NAME,unzip.exe
 
 
-# ======================
-# NVIDIA / 钉钉
-# ======================
+  # ======================
+  # NVIDIA / 钉钉
+  # ======================
   - PROCESS-NAME,NVIDIA app.exe
   - PROCESS-NAME,DingTalkUpdater.exe
   - PROCESS-NAME,DingTalkCheck.exe
 
 
-# ======================
-# 系统 / Windows
-# ======================
+  # ======================
+  # 系统 / Windows
+  # ======================
   - PROCESS-NAME,ApplicationFrameHost.exe
   - PROCESS-NAME,AggregatorHost.exe
   - PROCESS-NAME,AgentService.exe
@@ -158,9 +158,9 @@ payload:
   - PROCESS-NAME,CRWindowsClientService.exe
 
 
-# ======================
-# 更新 / 安装器（建议 REJECT）
-# ======================
+  # ======================
+  # 更新 / 安装器（建议 REJECT）
+  # ======================
   - PROCESS-NAME,LiveUpdate.exe
   - PROCESS-NAME,microsoftedgeupdate.exe
   - PROCESS-NAME,update_installer.exe
@@ -170,9 +170,9 @@ payload:
   - PROCESS-NAME,app_shell_updater.exe
 
 
-# ======================
-# 崩溃 / 反馈 / 遥测（建议 REJECT）
-# ======================
+  # ======================
+  # 崩溃 / 反馈 / 遥测（建议 REJECT）
+  # ======================
   - PROCESS-NAME,CrashSender.exe
   - PROCESS-NAME,crashpad_handler.exe
   - PROCESS-NAME,crash_handler.exe
@@ -184,9 +184,9 @@ payload:
   - PROCESS-NAME,sgfeedbackhelper.exe
 
 
-# ======================
-# 其他
-# ======================
+  # ======================
+  # 其他
+  # ======================
   - PROCESS-NAME,TrafficMonitor.exe
   - PROCESS-NAME,QQEX.exe
   - PROCESS-NAME,Xtransport.exe
