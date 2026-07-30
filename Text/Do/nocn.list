@@ -282,6 +282,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,poe.com
 
 # >>> xAI (Grok) <<<
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 
 # >>> 图像生成与设计 (Midjourney, Stable Diffusion, etc.) <<<
