@@ -8,7 +8,7 @@ DOMAIN,userlink.alicdn.com
 DOMAIN,idklog.ingeek.com
 DOMAIN,open.e.kuaishou.com
 DOMAIN,log.mmstat.com
-DOMAIN,s-gm.mmstat.com
+DOMAIN-SUFFIX,mmstat.com
 
 # 东方财富广告
 DOMAIN-SUFFIX,emdcadvertise.eastmoney.com
