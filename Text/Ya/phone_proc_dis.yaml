@@ -2,3 +2,5 @@ rules:
   - PROCESS-NAME,cn.wps.moffice_eng,REJECT
   - PROCESS-NAME,com.xiaomi.market,REJECT
   - PROCESS-NAME,com.iflytek.inputmethod.miui,REJECT
+  - PROCESS-NAME,com.android.providers.media,REJECT
+  -
