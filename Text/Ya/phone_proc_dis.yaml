@@ -1,4 +1,4 @@
 rules:
-  - PACKAGE-NAME,cn.wps.moffice_eng
-  - PACKAGE-NAME,com.xiaomi.market
-  - PACKAGE-NAME,com.iflytek.inputmethod.miui
+  - PROCESS-NAME,cn.wps.moffice_eng,REJECT
+  - PROCESS-NAME,com.xiaomi.market,REJECT
+  - PROCESS-NAME,com.iflytek.inputmethod.miui,REJECT
