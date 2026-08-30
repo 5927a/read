@@ -4,3 +4,4 @@ rules:
   - PROCESS-NAME,com.iflytek.inputmethod.miui,REJECT
   - PROCESS-NAME,com.android.providers.media,REJECT
   - DOMAIN-SUFFIX,wap.sandai.net,REJECT
+  - DOMAIN-SUFFIX,marknet.xiaomi.com,REJECT
