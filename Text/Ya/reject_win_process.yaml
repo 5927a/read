@@ -83,7 +83,6 @@ payload:
   - PROCESS-NAME,install.exe
   - PROCESS-NAME,oem.exe
   - PROCESS-NAME,EqnEdit.exe
-  - PROCESS-NAME,EqnEdit.exe
   - PROCESS-NAME,uninst.exe
   - PROCESS-NAME,oem_static.exe
   - PROCESS-NAME,install.exe
