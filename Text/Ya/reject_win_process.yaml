@@ -12,6 +12,10 @@ payload:
   - PROCESS-NAME,ScreenshotHD.exe
   - PROCESS-NAME,RecorderOnes.exe
 
+  # ======================
+  # Xshell
+  # ======================
+  - PROCESS-NAME,LiveUpdate.exe
 
   # ======================
   # 搜狗输入法
