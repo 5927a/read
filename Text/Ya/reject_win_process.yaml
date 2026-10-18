@@ -18,6 +18,11 @@ payload:
   - PROCESS-NAME,LiveUpdate.exe
 
   # ======================
+  # Xshell
+  # ======================
+  - PROCESS-NAME,MicrosoftEdgeUpdate.exe
+
+  # ======================
   # 搜狗输入法
   # ======================
   - PROCESS-NAME,crashrpt.exe
