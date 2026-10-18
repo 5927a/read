@@ -13,17 +13,6 @@ payload:
   - PROCESS-NAME,RecorderOnes.exe
 
   # ======================
-  # Xshell
-  # ======================
-  - PROCESS-NAME,LiveUpdate.exe
-
-  # ======================
-  # MicroSoft
-  # ======================
-  - PROCESS-NAME,MicrosoftEdgeUpdate.exe
-  - PROCESS-NAME,CopilotUpdate.exe
-
-  # ======================
   # 搜狗输入法
   # ======================
   - PROCESS-NAME,crashrpt.exe
