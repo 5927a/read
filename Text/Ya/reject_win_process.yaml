@@ -18,9 +18,10 @@ payload:
   - PROCESS-NAME,LiveUpdate.exe
 
   # ======================
-  # Xshell
+  # MicroSoft
   # ======================
   - PROCESS-NAME,MicrosoftEdgeUpdate.exe
+  - PROCESS-NAME,CopilotUpdate.exe
 
   # ======================
   # 搜狗输入法
