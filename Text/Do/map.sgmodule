@@ -1,5 +1,4 @@
 #!name= 高德地图
-#!system=ios
 
 [Rule]
 AND,((URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"),(USER-AGENT,"AMapiPhone*")),REJECT
