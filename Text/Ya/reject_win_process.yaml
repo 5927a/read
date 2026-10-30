@@ -94,12 +94,21 @@ payload:
   # ======================
   # Adobe
   # ======================
-  - PROCESS-NAME,Photoshop.exe
-  - PROCESS-NAME,CCXProcess.exe
-  - PROCESS-NAME,CCLibrary.exe
-  - PROCESS-NAME,AdobeIPCBroker.exe
   - PROCESS-NAME,Adobe Crash Processor.exe
-
+  - PROCESS-NAME,convert.exe
+  - PROCESS-NAME,CRWindowsClientService.exe
+  - PROCESS-NAME,flitetranscoder.exe
+  - PROCESS-NAME,node.exe
+  - PROCESS-NAME,Photoshop.exe
+  - PROCESS-NAME,PhotoshopPrefsManager.exe
+  - PROCESS-NAME,pngquant.exe
+  - PROCESS-NAME,sniffer.exe
+  - PROCESS-NAME,Droplet Template.exe
+  - PROCESS-NAME,CEPHtmlEngine.exe
+  - PROCESS-NAME,amecommand.exe
+  - PROCESS-NAME,dynamiclinkmanager.exe
+  - PROCESS-NAME,dynamiclinkmediaserver.exe
+  - PROCESS-NAME,ImporterREDServer.exe
 
   # ======================
   # 2345
