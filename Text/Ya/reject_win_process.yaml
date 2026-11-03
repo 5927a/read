@@ -12,6 +12,25 @@ payload:
   - PROCESS-NAME,ScreenshotHD.exe
   - PROCESS-NAME,RecorderOnes.exe
 
+
+  # ======================
+  # 完美播放器
+  # ======================
+  - PROCESS-NAME,PureSet.exe
+  - PROCESS-NAME,uninst.exe
+  - PROCESS-NAME,IcarosConfig.exe
+  - PROCESS-NAME,madHcCtrl.exe
+  - PROCESS-NAME,madLevelsTweaker.exe
+  - PROCESS-NAME,madTPG.exe
+  - PROCESS-NAME,DesktopHook.exe
+  - PROCESS-NAME,DTDrop64.exe
+  - PROCESS-NAME,mpc-be64.exe
+  - PROCESS-NAME,mpc-hc64.exe
+  - PROCESS-NAME,PotPlayerMini64.exe
+  - PROCESS-NAME,main.exe
+  - PROCESS-NAME,main64.exe
+  - PROCESS-NAME,main64.exe
+
   # ======================
   # 搜狗输入法
   # ======================
