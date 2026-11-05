@@ -106,6 +106,7 @@ DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakaocdn.net
 DOMAIN-SUFFIX,tinder.com
 DOMAIN-SUFFIX,bumble.com
+DOMAIN-SUFFIX,kinsta.com
 
 # >>> 国际新闻、媒体与杂志 (重点扩充) <<<
 DOMAIN-SUFFIX,nytimes.com
