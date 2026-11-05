@@ -451,12 +451,14 @@ DOMAIN-SUFFIX,360safe.com
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,thinkpad.com
 
-# 无人机(大疆)、合资车企与汽车垂类媒体
+# 合资车企与汽车垂类媒体
 DOMAIN-SUFFIX,skypixel.com
 DOMAIN-SUFFIX,gtmc.com
 DOMAIN-SUFFIX,gtmc.com.cn
 DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,autoimg.cn
+DOMAIN-SUFFIX,ingeek.com
+DOMAIN-SUFFIX,dongchedi.com
 
 # 步步高
 DOMAIN-SUFFIX,eebbk.net
