@@ -15,6 +15,13 @@ DOMAIN,open.e.kuaishou.com
 DOMAIN,log.mmstat.com
 DOMAIN-SUFFIX,mmstat.com
 
+# 运营商
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,wostore.cn
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,jspatch.com   
+DOMAIN-SUFFIX,online-metrix.net
+
 # 东方财富广告
 DOMAIN-SUFFIX,emdcadvertise.eastmoney.com
 DOMAIN-SUFFIX,js4.eastmoney.com
