@@ -209,7 +209,7 @@ payload:
 
 
   # ======================
-  # 更新 / 安装器（建议 REJECT）
+  # 更新 / 安装器
   # ======================
   - PROCESS-NAME,LiveUpdate.exe
   - PROCESS-NAME,microsoftedgeupdate.exe
@@ -221,7 +221,7 @@ payload:
 
 
   # ======================
-  # 崩溃 / 反馈 / 遥测（建议 REJECT）
+  # 崩溃 / 反馈 / 遥测
   # ======================
   - PROCESS-NAME,CrashSender.exe
   - PROCESS-NAME,crashpad_handler.exe
@@ -233,7 +233,12 @@ payload:
   - PROCESS-NAME,nsregister.exe
   - PROCESS-NAME,sgfeedbackhelper.exe
 
-
+  # ======================
+  # 滴答清单
+  # ======================
+  - PROCESS-NAME,TickTick.exe
+  - PROCESS-NAME,unins000.exe
+  
   # ======================
   # 其他
   # ======================
