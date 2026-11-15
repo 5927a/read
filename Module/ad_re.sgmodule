@@ -1,7 +1,6 @@
 #!name=广告拦截补充包(仅anti-AD没有的规则)
 #!desc=智能ai整理
 
-
 # 【字节】字节跳动 / 穿山甲
 DOMAIN,lf-ad-ies.bytecdn.cn,REJECT
 DOMAIN,log.snssdk.com,REJECT
