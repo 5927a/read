@@ -3,3 +3,5 @@
 
 [Rule]
 AND,((URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"),(USER-AGENT,"AMapiPhone*")),REJECT
+URL-REGEX,^https?:\/\/m5\.amap\.com\/ws\/valueadded\/,REJECT
+URL-REGEX,^https?:\/\/amap-aos-info-nogw\.amap\.com\/ws\/aos\/alimama\/splash_screen_rt,REJECT
