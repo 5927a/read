@@ -1,6 +1,7 @@
 #!name=广告拦截补充包(仅anti-AD没有的规则)
 #!desc=智能ai整理
 
+[Rule]
 # 【字节】字节跳动 / 穿山甲
 DOMAIN,lf-ad-ies.bytecdn.cn,REJECT
 DOMAIN,log.snssdk.com,REJECT
@@ -29,7 +30,7 @@ DOMAIN,nfy.slyxmobi.com,REJECT
 DOMAIN,api.mobrtb.com,REJECT
 DOMAIN,ssp.maplehaze.cn,REJECT
 
-# ════════════════════════════════════════════════════════════
+#═════════════════════#
 DOMAIN,sdk1xyajs.data.kuiniuca.com,REJECT
 DOMAIN,cdn.cmgadx.com,REJECT
 DOMAIN,adsoss.zhinengxiyifang.cn,REJECT
@@ -66,14 +67,14 @@ DOMAIN,appcloud.zhihu.com,REJECT
 DOMAIN,mqtt.zhihu.com,REJECT
 DOMAIN,sugar.zhihu.com,REJECT
 
-# ════════════════════════════════════════════════════════════
+#═════════════════════#
 DOMAIN,apm.gotokeep.com,REJECT
 DOMAIN,kad.gotokeep.com,REJECT
 
-# ════════════════════════════════════════════════════════════
+#═════════════════════#
 DOMAIN,et.ykccn.com,REJECT
 
-# ════════════════════════════════════════════════════════════
+#═════════════════════#
 DOMAIN,adstatic.peopleapp.com,REJECT
 DOMAIN,ad.myfriday.cn,REJECT
 DOMAIN,ad.lofter.com,REJECT
@@ -90,12 +91,12 @@ DOMAIN,adm.10jqka.com.cn,REJECT
 DOMAIN,ssp.dzh.com.cn,REJECT
 DOMAIN,ads.iconntech.com,REJECT
 
-# ════════════════════════════════════════════════════════════
+#═════════════════════#
 DOMAIN-SUFFIX,i18n-pglstatp.com,REJECT
 DOMAIN-SUFFIX,l.qq.com,REJECT
 DOMAIN-SUFFIX,adukwai.com,REJECT
 
-# ════════════════════════════════════════════════════════════
+#═════════════════════#
 DOMAIN-KEYWORD,-ad-sign.byteimg.com,REJECT
 DOMAIN-KEYWORD,-ad.byteoversea.com,REJECT
 DOMAIN-KEYWORD,asiad.byteactivity,REJECT
