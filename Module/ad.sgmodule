@@ -42,19 +42,11 @@ AND,((IP-CIDR,220.243.141.0/32,no-resolve),(DEST-PORT,6443)),REJECT
 # 【B站】直播间 STUN/追踪
 AND,((DOMAIN-SUFFIX,chat.bilibili.com),(OR,((DOMAIN-KEYWORD,stun),(DOMAIN-KEYWORD,tracker)))),REJECT
 
-# 【小红书】拦QUIC，迫使走TCP，让其他规则生效
-AND,((PROTOCOL,QUIC),(DOMAIN-SUFFIX,xiaohongshu.com)),REJECT
 
 # 【阿里AMDC】HTTPDNS，用UA区分App避免误杀
 AND,((URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"),(USER-AGENT,"%E9%97%B2%E9%B1%BC*")),REJECT
 AND,((URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"),(USER-AGENT,"AMapiPhone*")),REJECT
 URL-REGEX,"^http:\/\/59\.82\.113\.10\/amdc\/mobileDispatch",REJECT
-
-# 【DNS】明文HTTPDNS(IP直连)
-URL-REGEX,"^http:\/\/139\.196\.12\.179:8053\/httpdns\/",REJECT
-URL-REGEX,"^http:\/\/106\.55\.220\.18:8053\/httpdns\/",REJECT
-URL-REGEX,"^http:\/\/54\.222\.159\.138:8053\/httpdns\/",REJECT
-URL-REGEX,"^http:\/\/101\.42\.130\.147\/httpdns\/resolve\/",REJECT
 
 # 【其他App】明文广告接口
 URL-REGEX,"^http:\/\/tianqi\.2345\.com\/api\/content\/getContentFeeds\.php",REJECT
