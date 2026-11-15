@@ -2,9 +2,12 @@ DOMAIN,update.googleapis.com
 DOMAIN,softwareupdate.vmware.com
 DOMAIN,update.pan.baidu.com
 DOMAIN,dtapp-pub.dingtalk.com
-DOMAIN-KEYWORD,viewdepth
-DOMAIN-KEYWORD,ecopaste
 DOMAIN-SUFFIX,photoshop.com
-DOMAIN-KEYWORD,adobe
 DOMAIN-SUFFIX,huandian.com
 DOMAIN-SUFFIX,ieway.cn
+# shellrs.com
+DOMAIN-SUFFIX,shellrs.com
+#
+DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,viewdepth
+DOMAIN-KEYWORD,ecopaste
