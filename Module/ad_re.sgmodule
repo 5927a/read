@@ -1,0 +1,104 @@
+#!name=广告拦截补充包(仅anti-AD没有的规则)
+#!desc= ai整理
+
+
+# 【字节】字节跳动 / 穿山甲
+DOMAIN,lf-ad-ies.bytecdn.cn,REJECT
+DOMAIN,log.snssdk.com,REJECT
+DOMAIN,s3a.pstatp.com,REJECT
+DOMAIN,tosv.boe.byted.org,REJECT
+DOMAIN,tosv.byted.org,REJECT
+DOMAIN,da.bridgeturbo.com,REJECT
+DOMAIN,adx-os.bridgeturbo.com,REJECT
+
+# 【腾讯】统计 / 腾讯视频配置
+DOMAIN,rmonitor.qq.com,REJECT
+DOMAIN,info4.video.qq.com,REJECT
+DOMAIN,info6.video.qq.com,REJECT
+
+# 【百度】
+DOMAIN,fc-video.cdn.bcebos.com,REJECT
+DOMAIN,fcvbjbcebos.baidu.com,REJECT
+
+# 【联盟】广告联盟 
+DOMAIN,sdk.tianmu.mobi,REJECT
+DOMAIN,tracker.tianmu.mobi,REJECT
+DOMAIN,adx.adtaipo.com,REJECT
+DOMAIN,adxapi.readgps.com,REJECT
+DOMAIN,t.fanglinad.com,REJECT
+DOMAIN,nfy.slyxmobi.com,REJECT
+DOMAIN,api.mobrtb.com,REJECT
+DOMAIN,ssp.maplehaze.cn,REJECT
+
+# ════════════════════════════════════════════════════════════
+DOMAIN,sdk1xyajs.data.kuiniuca.com,REJECT
+DOMAIN,cdn.cmgadx.com,REJECT
+DOMAIN,adsoss.zhinengxiyifang.cn,REJECT
+DOMAIN,bdsp-x.jd.com,REJECT
+
+# 【海外】海外广告网络
+DOMAIN,gfp.veta.naver.com,REJECT
+DOMAIN,imgx.jampp.com,REJECT
+
+# 【DNS】HTTPDNS
+DOMAIN,httpdns.yunxindns.com,REJECT
+DOMAIN,httpdns.calorietech.com,REJECT
+DOMAIN,lofter.httpdns.c.163.com,REJECT
+DOMAIN,music.httpdns.c.163.com,REJECT
+
+# 【B站】｜来源:原 ----------
+# 注意：anti-AD故意没拦这4条，单独使用可能影响B站，异常就注释
+#DOMAIN,api.biliapi.com,REJECT
+#DOMAIN,app.biliapi.com,REJECT
+#DOMAIN,api.biliapi.net,REJECT
+#DOMAIN,app.biliapi.net,REJECT
+
+# 【抖音】长连接
+# 抖音消息/直播异常时，注释掉本段
+DOMAIN,frontier-aweme-hl.snssdk.com,REJECT
+DOMAIN,frontier-aweme.snssdk.com,REJECT
+DOMAIN,frontier-quic-test.bytedance.com,REJECT
+
+# 【小红书】｜
+DOMAIN,t-ads.xiaohongshu.com,REJECT
+
+# 【知乎】
+DOMAIN,appcloud.zhihu.com,REJECT
+DOMAIN,mqtt.zhihu.com,REJECT
+DOMAIN,sugar.zhihu.com,REJECT
+
+# ════════════════════════════════════════════════════════════
+DOMAIN,apm.gotokeep.com,REJECT
+DOMAIN,kad.gotokeep.com,REJECT
+
+# ════════════════════════════════════════════════════════════
+DOMAIN,et.ykccn.com,REJECT
+
+# ════════════════════════════════════════════════════════════
+DOMAIN,adstatic.peopleapp.com,REJECT
+DOMAIN,ad.myfriday.cn,REJECT
+DOMAIN,ad.lofter.com,REJECT
+DOMAIN,ad.mcloud.139.com,REJECT
+DOMAIN,ad.xiaotucc.com,REJECT
+DOMAIN,ad.ysepay.com,REJECT
+DOMAIN,ads.ysepay.com,REJECT
+DOMAIN,ad.line-scdn.net,REJECT
+DOMAIN,axxd.xmseeyouyima.com,REJECT
+DOMAIN,ssp.soulapp.cn,REJECT
+DOMAIN,live-ads.huya.com,REJECT
+DOMAIN,jad-api.jin10.com,REJECT
+DOMAIN,adm.10jqka.com.cn,REJECT
+DOMAIN,ssp.dzh.com.cn,REJECT
+DOMAIN,ads.iconntech.com,REJECT
+
+# ════════════════════════════════════════════════════════════
+DOMAIN-SUFFIX,i18n-pglstatp.com,REJECT
+DOMAIN-SUFFIX,l.qq.com,REJECT
+DOMAIN-SUFFIX,adukwai.com,REJECT
+
+# ════════════════════════════════════════════════════════════
+DOMAIN-KEYWORD,-ad-sign.byteimg.com,REJECT
+DOMAIN-KEYWORD,-ad.byteoversea.com,REJECT
+DOMAIN-KEYWORD,asiad.byteactivity,REJECT
+DOMAIN-KEYWORD,trace.qq.com,REJECT
+DOMAIN-KEYWORD,trace.video.qq.com,REJECT
