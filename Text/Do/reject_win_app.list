@@ -8,6 +8,6 @@ DOMAIN-SUFFIX,ieway.cn
 # shellrs.com
 DOMAIN-SUFFIX,shellrs.com
 #
-DOMAIN-KEYWORD,adobe
+#DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,viewdepth
 DOMAIN-KEYWORD,ecopaste
