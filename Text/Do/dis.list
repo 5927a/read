@@ -251,6 +251,6 @@ DOMAIN-SUFFIX,,trace.video.qq.com
 AND,((URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"),(USER-AGENT,"AMapiPhone*"))
 
 #═════════════════════#
-DOMAIN-KEYWORD,-ad-sign.byteimg.com
-DOMAIN-KEYWORD,-ad.byteoversea.com
-DOMAIN-KEYWORD,asiad.byteactivity
+#DOMAIN-KEYWORD,-ad-sign.byteimg.com
+#DOMAIN-KEYWORD,-ad.byteoversea.com
+#DOMAIN-KEYWORD,asiad.byteactivity
