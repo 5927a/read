@@ -418,8 +418,9 @@ DOMAIN-SUFFIX,virustotal.com
 
 # >>> 论坛  <<<
 DOMAIN-SUFFIX,dcard.tw
-DOMAIN-SUFFIX,yfsp.tv
+DOMAIN-SUFFIX,kubb.tv
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,v2core.com
 
 # >>> DNS <<<
 DOMAIN-SUFFIX,one.one.one.one
