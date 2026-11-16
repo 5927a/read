@@ -149,9 +149,6 @@ DOMAIN-SUFFIX,bitenn.com
 DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,gw.365you.com
 
-#高德
-AND,((URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"),(USER-AGENT,"AMapiPhone*"))
-
 # 【字节】字节跳动 / 穿山甲
 DOMAIN,lf-ad-ies.bytecdn.cn
 DOMAIN,log.snssdk.com
@@ -249,6 +246,9 @@ DOMAIN-SUFFIX,adukwai.com
 #═════════════════════#
 DOMAIN-SUFFIX,,trace.qq.com
 DOMAIN-SUFFIX,,trace.video.qq.com
+
+#高德
+AND,((URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"),(USER-AGENT,"AMapiPhone*"))
 
 #═════════════════════#
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
