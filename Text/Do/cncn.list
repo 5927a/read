@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,iosapps.itunes.apple.com
 DOMAIN-SUFFIX,osxapps.itunes.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple.com.cn
 
 # iOS / macOS 系统级固件更新 (OTA)
 DOMAIN-SUFFIX,appldnld.apple.com
